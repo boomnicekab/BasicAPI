@@ -8,7 +8,14 @@
         "detail":"ssss"
         
     },
-
+    {
+        "title":"วัคซีนชนิดใช้ไวรัสเป็นพาหะ",
+        "subtitle":"วัคซีนกลุ่มนี้ใช้ไวรัสที่สามารถตัดแต่งพันธุกรรม และใส่สารพันธุกรรมของไวรัสโรคโควิด19 ติดไปด้วย",
+        "subtitle2":"ได้แก่ วัคซีนโดยบริษัท Astra Zeneca, วัคซีนโดยบริษัท CanSinoBio , วัคซีนโดยบริษัท Johnson and Johnson และ วัคซีนโดยบริษัท Gamaleya",
+        "imageURL":"https://media.istockphoto.com/vectors/virus-protection-vector-web-banner-website-page-template-vector-id1144787442?k=20&m=1144787442&s=612x612&w=0&h=e6SUPP9kS4Qx6UUHJnodqHWojpFlyTdROepxdINPohI=",
+        "detail":"ssss"
+        
+    },
     {
         "title":"วัคซีนที่ทําจากโปรตีนส่วนหนึ่งของเชื้อ",
         "subtitle":"ผลิตโดยการ สร้างโปรตีนของเชื้อไวรัส แล้วนํามาผสมกับสารกระตุ้นภูมิ เมื่อฉีดเข้าสู่ร่างกายจะกระตุ้นให้ร่างกายสร้างแอนตีบอดีต่อต้านโปรตีนสไปค์ของไวรัสโรคโควิด19 ",
@@ -24,16 +31,6 @@
         "imageURL":"https://cdn.pixabay.com/photo/2020/06/14/09/00/research-5297028__340.jpg",
         "detail":"sss"
         
-    },
-    {
-        "title":"เพิ่มเติม",
-        "subtitle":"วัคซีนกลุ่มนี้ผลิตโดยนําไวรัสโรคโควิด19 มาเลี้ยงขยายจํานวนมาก และนํามาทำให้เชื้อตาย  การฉีดวัคซีนจะกระตุ้นให้ร่างกาย",
-        "subtitle2":"ได้แก่ วัคซีนของบริษัท Sinovac",
-        "imageURL":"https://cdn.pixabay.com/photo/2020/06/14/09/00/research-5297028__340.jpg",
-        "detail":"sss"
-        
     }
 
 ]
-
-
