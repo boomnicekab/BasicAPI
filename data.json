@@ -12,7 +12,7 @@
         "title":"วัคซีนชนิดใช้ไวรัสเป็นพาหะ",
         "subtitle":"วัคซีนกลุ่มนี้ใช้ไวรัสที่สามารถตัดแต่งพันธุกรรม และใส่สารพันธุกรรมของไวรัสโรคโควิด19 ติดไปด้วย",
         "subtitle2":"ได้แก่ วัคซีนโดยบริษัท Astra Zeneca, วัคซีนโดยบริษัท CanSinoBio , วัคซีนโดยบริษัท Johnson and Johnson และ วัคซีนโดยบริษัท Gamaleya",
-        "imageURL":"https://raw.githubusercontent.com/boomnicekab/BasicAPI/blob/main/P2.jpg?raw=true",
+        "imageURL":"https://raw.githubusercontent.com/boomnicekab/BasicAPI/main/P2.jpg",
         "detail":"ssss"
         
     },
@@ -20,7 +20,7 @@
         "title":"วัคซีนที่ทําจากโปรตีนส่วนหนึ่งของเชื้อ",
         "subtitle":"ผลิตโดยการ สร้างโปรตีนของเชื้อไวรัส แล้วนํามาผสมกับสารกระตุ้นภูมิ เมื่อฉีดเข้าสู่ร่างกายจะกระตุ้นให้ร่างกายสร้างแอนตีบอดีต่อต้านโปรตีนสไปค์ของไวรัสโรคโควิด19 ",
         "subtitle2":"ได้แก่ วัคซีนแบรนด์ Novavax ซึ่งผลิตจาก baculovirus",
-        "imageURL":"https://raw.githubusercontent.com/boomnicekab/BasicAPI/blob/main/P3.jpg?raw=true",
+        "imageURL":"https://raw.githubusercontent.com/boomnicekab/BasicAPI/main/P3.jpg",
         "detail":"sss"
         
     },
@@ -28,7 +28,7 @@
         "title":"วัคซีนชนิดเชื้อตาย",
         "subtitle":"วัคซีนกลุ่มนี้ผลิตโดยนําไวรัสโรคโควิด19 มาเลี้ยงขยายจํานวนมาก และนํามาทำให้เชื้อตาย  การฉีดวัคซีนจะกระตุ้นให้ร่างกาย",
         "subtitle2":"ได้แก่ วัคซีนของบริษัท Sinovac",
-        "imageURL":"https://raw.githubusercontent.com/boomnicekab/BasicAPI/blob/main/P4.jpg?raw=true",
+        "imageURL":"https://raw.githubusercontent.com/boomnicekab/BasicAPI/main/P4.jpg",
         "detail":"sss"
         
     }
